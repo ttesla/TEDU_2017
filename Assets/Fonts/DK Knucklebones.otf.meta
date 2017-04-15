@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bfd9ab49840e01a40bba5c096a23a44d
+timeCreated: 1492257388
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DK Knucklebones
+  fontNames:
+  - DK Knucklebones
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
